@@ -4,7 +4,7 @@ Para la extracción de los datos se utilizó el siguiente Google Colaboratory [l
 
 Link al reporte en data estudio: https://datastudio.google.com/reporting/89503863-4254-4d61-8aec-5c1c09f0b407
 
-Por temas de orden, el reporte se dividió en páginas según las secciones del enunciado. 
+Por temas de orden, el reporte se dividió en **4 páginas** según las secciones del enunciado. 
 
 **Para tener acceso a los links se debe ingresar con una cuenta uc**
 
