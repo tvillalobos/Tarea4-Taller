@@ -4,6 +4,8 @@ Para la extracción de los datos se utilizó el siguiente Google Colaboratory [l
 
 Link al reporte en data estudio: https://datastudio.google.com/reporting/89503863-4254-4d61-8aec-5c1c09f0b407
 
+Por temas de orden, el reporte se dividió en páginas según las secciones del enunciado. 
+
 **Para tener acceso a los links se debe ingresar con una cuenta uc**
 
 ## Librerias utilizadas
@@ -11,3 +13,7 @@ Link al reporte en data estudio: https://datastudio.google.com/reporting/8950386
 - gspread==3.6.0
 - requests
 - pandas
+
+### Pantallazo dashboard
+![alt text](dashboard.png "Dashboard")
+
